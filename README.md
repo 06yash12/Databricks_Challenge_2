@@ -17,13 +17,7 @@ Grateful for the support and initiative by [Databricks,](https://databricks.com/
 
 Focused on building a strong data foundation before starting advanced engineering workflows.
 
-What I completed:
-→ Configured Databricks workspace and cluster  
-→ Set up Kaggle API credentials securely  
-→ Created schema and managed volume for structured storage  
-→ Downloaded and extracted the e-commerce dataset from Kaggle  
-→ Loaded October & November 2019 data into Spark DataFrames  
-→ Validated schema (9 columns) and verified row counts  
+What I completed:→ Configured Databricks workspace and cluster  → Set up Kaggle API credentials securely  → Created schema and managed volume for structured storage  → Downloaded and extracted the e-commerce dataset from Kaggle  → Loaded October & November 2019 data into Spark DataFrames  → Validated schema (9 columns) and verified row counts  
 
 Setup complete. Data validated. Ready for engineering.
 
@@ -35,17 +29,9 @@ Setup complete. Data validated. Ready for engineering.
 
 Completed Day 1 of Challenge 2, focusing on production-style data engineering using Delta Lake.
 
-What I Learned Today:
-→ Delta vs Parquet differences  
-→ Small file problem in distributed systems  
-→ Table optimization using OPTIMIZE  
-→ Performance-first engineering mindset  
+What I Learned Today:→ Delta vs Parquet differences  → Small file problem in distributed systems  → Table optimization using OPTIMIZE  → Performance-first engineering mindset  
 
-Tasks I Completed:
-→ Converted raw CSV data into Delta format  
-→ Created managed Delta table  
-→ Simulated small file problem using multiple appends  
-→ Applied OPTIMIZE to improve table performance  
+Tasks I Completed:→ Converted raw CSV data into Delta format  → Created managed Delta table  → Simulated small file problem using multiple appends  → Applied OPTIMIZE to improve table performance  
 
 From raw data ingestion to optimized Delta tables — moving toward production-grade architecture.
 
