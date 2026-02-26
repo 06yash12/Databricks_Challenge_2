@@ -61,7 +61,6 @@ Tasks I Completed:
 
 <img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/1aa34dd6-5816-45e8-83e2-9412a8a5b8b6" />
 
-
 # Day 3 (22/02/26) –  Job Orchestration Basics
 
 Completed Day 3 focusing on production-grade job orchestration and automation in Databricks.
@@ -83,3 +82,114 @@ Tasks I Completed:
 <img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/ee934e17-ea98-4eac-b2db-890ef858497c" />
 
 <img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/54beaf05-01c8-45f1-ae0b-f90035310e81" />
+
+# Day 4 (23/02/26) – Structured Streaming (Basic Simulation)
+
+Completed Day 4 focusing on real-time data processing and streaming architecture in Databricks.
+
+What I Learned Today:
+→ How micro-batch processing works in Structured Streaming
+→ The role of checkpointing in fault tolerance and recovery
+→ Writing streaming outputs directly into Delta tables
+→ How streaming pipelines differ from batch workflows
+
+Tasks I Completed:
+→ Simulated streaming ingestion from a folder source
+→ Configured checkpointing for reliable state management
+→ Wrote streaming aggregation output to a Delta table
+→ Queried and validated streaming results using Spark SQL
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/98faeffa-bc4f-4ea7-94a1-2803ed902fbe" />
+
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/562b5e1f-f93a-4bd8-98be-cb4c2bb16b82" />
+
+# Day 5 (24/02/26) – Production-Grade Feature Engineering
+
+Completed Day 5 focusing on building clean, model-ready datasets for machine learning.
+
+What I Learned Today:
+→ How to create binary classification targets from raw event data
+→ Joining engineered feature tables with target labels
+→ Proper train-test splitting strategies
+→ Detecting and validating class imbalance in datasets
+
+Tasks I Completed:
+→ Created a binary purchase label from event-level data
+→ Joined label data with silver feature tables
+→ Split dataset into training and testing sets
+→ Validated label distribution across both splits
+
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/9182788f-5436-4958-b7ae-56c5891e7682" />
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/4ef62c44-d861-4ab9-92ca-25e4e2cc9eae" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/43047de9-e2c1-4139-a27d-2c280512a694" />
+
+# Day 6 (25/02/26) – Model Training & Tuning
+
+Completed Day 6 focusing on applied machine learning model training and evaluation.
+
+What I Learned Today:
+→ Logistic Regression fundamentals in Spark ML
+→ RandomForest classifier implementation
+→ Model evaluation using AUC (Area Under ROC)
+→ Importance of training vs test evaluation
+
+Tasks I Completed:
+→ Trained a Logistic Regression model
+→ Trained a RandomForest classifier
+→ Evaluated both models using AUC
+→ Compared performance to identify the stronger model
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/c26d23cd-c1fb-45a7-86dd-d4b9ec1f2f08" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/02381272-e36c-4379-825c-6004ffb14533" />
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/74936da6-02fe-47ac-82c9-be534b4e8af8" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/2823bccc-61ee-4813-9b98-17da780fe57d" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/551a3fa8-5b53-4c28-85ee-7441fd768beb" />
+
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/6e8db758-98e8-4922-b1f6-9e13f8325616" />
+
+# Day 7 (26/02/26) – MLflow Tracking
+
+Completed Day 7 focusing on experiment tracking and model lifecycle management using MLflow.
+
+What I Learned Today:
+→ How MLflow tracks experiments and parameters
+→ Logging metrics and artifacts programmatically
+→ Comparing model runs inside MLflow UI
+→ Basic model versioning concepts
+
+Tasks I Completed:
+→ Logged training runs into MLflow
+→ Recorded evaluation metrics and parameters
+→ Compared multiple model experiments
+→ Registered model versions for reproducibility
+
+<img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/c5ea0d17-4bf2-43b2-98a7-f5f0f64acb09" />
+
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/9f20da7e-5be8-4a1c-a08b-9af5fc1d22b7" />
+
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/e1d915e9-4034-4c88-ace7-0b341558cd0d" />
+
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/7fa6818e-05cb-491f-a6ca-d97dca9c2c5e" />
+
+<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/03f2e183-56c1-46e7-950d-81aec4fd0438" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
