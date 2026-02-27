@@ -179,6 +179,22 @@ Tasks I Completed:
 
 <img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/03f2e183-56c1-46e7-950d-81aec4fd0438" />
 
+# Day 8 (27/02/26) – Batch Inference Pipeline
+
+Completed Day 8 focusing on building a batch inference pipeline and creating a production-ready Gold layer.
+
+What I Learned Today:
+→ How to perform batch scoring using a trained ML model
+→ How to reload models from MLflow for inference
+→ Converting model outputs into business-ready probabilities
+→ Designing a Gold layer table for downstream consumption
+
+Tasks I Completed:
+→ Scored all users using the trained RandomForest model
+→ Saved predictions into a Gold Delta table
+→ Extracted purchase probabilities from Spark ML vectors
+→ Identified top predicted buyers based on probability ranking
+
 
 
 
