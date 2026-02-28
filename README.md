@@ -196,6 +196,26 @@ Tasks I Completed:
 → Identified top predicted buyers based on probability ranking
 
 
+# Day 9 (28/02/26) – Recommendation System
+
+Completed Day 9 focusing on building a recommendation system using collaborative filtering with ALS.
+
+What I Learned Today:
+→ How collaborative filtering works using user–item interaction data
+→ The difference between explicit and implicit feedback
+→ How ALS (Alternating Least Squares) factorizes user-item matrices
+→ Understanding the cold start problem in recommendation systems
+→ How ranking-based recommendations differ from probability-based predictions
+
+Tasks I Completed:
+→ Created rating mapping from event data (view, click, purchase → numerical scores)
+→ Built a user–product interaction dataset
+→ Trained an ALS model using Spark MLlib
+→ Generated Top-5 product recommendations per user
+→ Ranked recommendations using predicted scores
+→ Filtered out already interacted products for cleaner recommendations
+
+
 
 
 
