@@ -83,6 +83,7 @@ Tasks I Completed:
 
 <img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/54beaf05-01c8-45f1-ae0b-f90035310e81" />
 
+
 # Day 4 (23/02/26) – Structured Streaming (Basic Simulation)
 
 Completed Day 4 focusing on real-time data processing and streaming architecture in Databricks.
@@ -101,7 +102,9 @@ Tasks I Completed:
 
 <img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/98faeffa-bc4f-4ea7-94a1-2803ed902fbe" />
 
-<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/562b5e1f-f93a-4bd8-98be-cb4c2bb16b82" />
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/562b5e1f-f93a-4bd8-98be-cb4c2bb16b82" /> 
+  
+# PHASE 2: AI SYSTEM BUILDING (Days 5–9)
 
 # Day 5 (24/02/26) – Production-Grade Feature Engineering
 
@@ -195,6 +198,11 @@ Tasks I Completed:
 → Extracted purchase probabilities from Spark ML vectors
 → Identified top predicted buyers based on probability ranking
 
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/f1ae5c6f-e9ec-44ec-a671-a6be743d3f54" />
+
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/32ed4dac-3576-4a39-9814-c1efd272efd9" />
+
+<img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/f628475a-9016-4226-a4ee-12c92f87b07b" />
 
 # Day 9 (28/02/26) – Recommendation System
 
@@ -215,15 +223,39 @@ Tasks I Completed:
 → Ranked recommendations using predicted scores
 → Filtered out already interacted products for cleaner recommendations
 
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/02678fa5-f49c-4781-9e73-9f538253549a" />
 
+<img width="1918" height="894" alt="image" src="https://github.com/user-attachments/assets/1dd96503-10e9-492f-aab2-f00687869316" />
 
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/2c0e0e51-a99d-41bc-8c6e-55c6fc80c028" />
 
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/55429ceb-be46-48e5-9432-6582ed5ba17a" />
 
+# PHASE 3: PERFORMANCE & PRODUCTION THINKING (Days 10–14)
 
+# DAY 10 (01/03/26) – Query Optimization & Explain Plans
 
+Completed Day 10 focusing on query optimization and improving Spark job performance.
 
+What I Learned Today: 
+→ How to analyze execution plans using .explain()
+→ Understanding partition pruning and its impact on performance 
+→ How caching speeds up repeated computations
+→ Identifying bottlenecks in Spark queries
 
+Tasks I Completed: 
+→ Executed a heavy Spark query on large data
+→ Analyzed the physical plan using .explain() 
+→ Enabled caching on intermediate DataFrame 
+→ Compared execution time before and after optimization
 
+<img width="1918" height="899" alt="image" src="https://github.com/user-attachments/assets/427dba2d-b3df-4c47-80f4-4ec72dbed346" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/8422136a-e096-4150-aa86-1e5ccb38b328" />
+
+<img width="1919" height="772" alt="image" src="https://github.com/user-attachments/assets/3853df9e-0e74-4a98-b203-753b5b3d2bb5" />
+
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/c8cc1f49-8b8c-4711-bbe9-b6a704eeebc4" />
 
 
 
