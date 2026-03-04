@@ -265,5 +265,21 @@ What I Learned Today: → How Delta Lake maintains table version history → How
 
 Tasks I Completed: → Appended new records to Delta table → Queried an older table version using time travel → Compared differences between table versions
 
+# DAY 12 (03/03/26) – Cost Optimization Basics
+
+Completed Day 12 focusing on Spark cost optimization and performance tuning.
+
+What I Learned Today:
+→ How Spark shuffles impact performance
+→ Difference between recomputation and caching
+→ Importance of partition strategy
+→ How to inspect physical plans
+
+Tasks I Completed:
+→ Measured baseline execution time
+→ Analyzed physical execution plan
+→ Implemented caching to avoid recompute
+→ Compared optimized runtime results
+
 
 
