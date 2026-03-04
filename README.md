@@ -281,5 +281,20 @@ Tasks I Completed:
 → Implemented caching to avoid recompute
 → Compared optimized runtime results
 
+# DAY 13 (04/03/26) – End-to-End Architecture Design
+
+Completed Day 13 focusing on designing the end-to-end architecture of the data and machine learning pipeline.
+
+What I Learned Today:
+→ How to design a scalable end-to-end data architecture using the Medallion pattern
+→ Understanding the role of Bronze, Silver, and Gold layers in a modern data pipeline
+→ Integrating machine learning workflows with data pipelines using MLflow
+→ The importance of defining retraining strategies to handle model drift and changing data patterns
+
+Tasks I Completed:
+→ Designed the architecture diagram representing the complete Bronze → Silver → Gold pipeline
+→ Documented the full data pipeline flow from raw event ingestion to model predictions
+→ Explained how feature engineering, model training, and experiment tracking fit into the architecture
+→ Defined a retraining strategy based on scheduled retraining, performance monitoring, and data drift detection
 
 
