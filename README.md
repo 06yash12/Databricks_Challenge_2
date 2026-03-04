@@ -265,6 +265,10 @@ What I Learned Today: → How Delta Lake maintains table version history → How
 
 Tasks I Completed: → Appended new records to Delta table → Queried an older table version using time travel → Compared differences between table versions
 
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/f31657d9-adac-4cda-95b6-25bd38a67a47" />
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/89860ee8-5e0f-4c21-af23-2a6b9c98de9c" />
+
 # DAY 12 (03/03/26) – Cost Optimization Basics
 
 Completed Day 12 focusing on Spark cost optimization and performance tuning.
@@ -281,6 +285,12 @@ Tasks I Completed:
 → Implemented caching to avoid recompute
 → Compared optimized runtime results
 
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/1e017a51-257a-4a84-a5b1-caee86371ebc" />
+
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/774c1902-1624-41a9-aa74-e3d8f7bc7697" />
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/d9579733-54a4-49ce-9bd5-bd4a9afbeaf8" />
+
 # DAY 13 (04/03/26) – End-to-End Architecture Design
 
 Completed Day 13 focusing on designing the end-to-end architecture of the data and machine learning pipeline.
@@ -296,5 +306,11 @@ Tasks I Completed:
 → Documented the full data pipeline flow from raw event ingestion to model predictions
 → Explained how feature engineering, model training, and experiment tracking fit into the architecture
 → Defined a retraining strategy based on scheduled retraining, performance monitoring, and data drift detection
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/57883bc9-c80f-494c-a71b-a9e9e3b5a3c0" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/b9509ab4-5299-4227-9158-c264989b8b60" />
+
+
 
 
