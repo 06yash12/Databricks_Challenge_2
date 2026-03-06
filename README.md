@@ -319,4 +319,15 @@ What I Learned Today: → How to integrate a full data pipeline with a machine l
 
 Tasks I Completed: → Combined the Bronze Silver Gold data pipeline with the machine learning training and inference pipeline → Saved the final trained model so it can be reused for batch predictions → Organized the complete workflow from data ingestion to final predictions → Documented and presented the end to end system showing how data processing, model training, and prediction are connected
 
+<img width="1917" height="894" alt="image" src="https://github.com/user-attachments/assets/83a9f7ba-a111-4167-bee1-17d7556057d4" />
+
+<img width="1914" height="899" alt="image" src="https://github.com/user-attachments/assets/9745645a-9e37-433e-b41d-090076da588e" />
+
+<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/b96dd862-0b41-4794-99c1-e135af7377df" />
+
+<img width="1919" height="747" alt="image" src="https://github.com/user-attachments/assets/416832f5-b23b-4567-a397-77e74e3f25a2" />
+
+
+
+
 
