@@ -327,6 +327,15 @@ Tasks I Completed: → Combined the Bronze Silver Gold data pipeline with the ma
 
 <img width="1919" height="747" alt="image" src="https://github.com/user-attachments/assets/416832f5-b23b-4567-a397-77e74e3f25a2" />
 
+---
+<p align="center">
+  <h2> </h2>
+</p>
+
+<p align="center">
+  Challenge 2 Complete -- 14 Days. Countless Learnings. Real Growth.
+</p>
+
 
 
 
