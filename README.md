@@ -11,7 +11,17 @@ After successfully completing Challenge 1, I’m stepping into Challenge 2 with 
 
 Excited to sharpen my Databricks, Spark and AI engineering skills through real-world implementation — learning, building and leveling up every single day.
 
-Grateful for the support and initiative by [Databricks,](https://databricks.com/) [Codebasics](https://codebasics.io/) and [Indian Data Club.](https://www.linkedin.com/company/indian-data-club/)
+Grateful for the support and initiative by [Databricks,](https://databricks.com/) [Codebasics](https://codebasics.io/) and [Indian Data Club](https://www.linkedin.com/company/indian-data-club/)
+
+## Certificate
+
+Received this Certificate of Appreciation for completing the **Databricks 14 Days AI Challenge – 2** with **Indian Data Club and Codebasics**. It highlights hands-on experience building production-style data engineering and AI pipelines using Databricks, Spark, Delta Lake and MLflow.
+
+<a href="https://drive.google.com/file/d/1q5xo-9o55p1jaGQJpOHC_oqyZIeCtB3m/view?usp=sharing" 
+   title="Open certificate on Google Drive" 
+   target="_blank">
+View Certificate
+</a>
 
 # Day 0 (19/02/26) – Setup & Data Loading  
 
